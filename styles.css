@@ -1,0 +1,35 @@
+body {
+    background-color: #faf6f0;
+    font-family: Georgia, "Times New Roman", serif;
+    max-width: 700px;
+    margin: 0 auto;
+    padding: 24px;
+}
+
+h1 {
+    color: #8a3b12;
+    border-bottom: 3px solid #e0c9b0;
+    padding-bottom: 10px;
+}
+
+ul {
+    background-color: white;
+    padding: 16px 36px;
+    border: 1px solid #eeeeee;
+    border-radius: 10px;
+    color: #b5531f;
+}
+
+li {
+    margin-bottom: 10px;
+}
+
+a {
+    color: #b5531f;
+    text-decoration: none;
+}
+
+img {
+  border: 1px solid #dddddd;
+  border-radius: 10px;
+}
